@@ -1,13 +1,6 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "do_objectID": "08F569DF-9231-4E94-B174-E03F09C5AD25",
+  "_class": "page",
+  "do_objectID": "55EB8E6B-B37B-424B-931B-7CC712515294",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,35 +13,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
-    "x": -189,
-    "y": 146
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -338,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "CDA6AD65-147F-4BAD-BF37-15B87473BA05"
+      "class": "symbolMaster",
+      "id": "105E0406-24FD-44FA-A6AF-A6BAF5126087"
     }
   ],
-  "name": "Desktop HD",
+  "name": "Symbols",
   "nameIsFixed": false,
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -61,7 +51,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -360,
     "guides": [
     ]
   }
